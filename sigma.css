@@ -1,4 +1,16 @@
 body{
     background-image: url(SIGMAFERFIK/5559431.jpg);
     color: white;
+    background-size: 100%;
+    
+    
+}
+
+#asd{
+    margin-left: 100px;
+    margin-right: 800px;
+}
+
+#fej{
+    margin: auto;
 }
